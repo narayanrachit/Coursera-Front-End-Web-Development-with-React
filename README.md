@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This course explores Javascript based front-end application development, and in particular the React library. This course uses JavaScript ES6 for developing React application. It gives an introduction to the use of several React Components. We learn about React router, designing Controlled Forms. We are introduced to Flux Architecture and Redux and at last we add a little bit of animations to our project. 
+
 ## Available Scripts
 
 In the project directory, you can run:
